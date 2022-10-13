@@ -40,8 +40,7 @@ body {
   width: 65px;
   height: 65px;
   background-color: rgb(59, 59, 59);
-  padding: 16px;
-  padding-top: 20px;
+  line-height: 65px;
 }
 .btn:hover {
   cursor: pointer;
